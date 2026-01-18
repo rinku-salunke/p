@@ -68,4 +68,6 @@ public class BankController {
         model.addAttribute("logs", logs);
         return "TransactionLogs"; // Refers to TransactionLogs.jsp
     }
+
+	kk
 }
