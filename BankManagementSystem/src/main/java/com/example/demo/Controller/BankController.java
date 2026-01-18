@@ -69,5 +69,5 @@ public class BankController {
         return "TransactionLogs"; // Refers to TransactionLogs.jsp
     }
 
-	kk
+	
 }
